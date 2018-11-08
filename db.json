@@ -5,28 +5,28 @@
       "price": 200,
       "count": 12,
       "title": "Никому не нужная штука",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/Greenplugin/json/master/images/image0.jpg"
     },
     {
       "id": 2,
       "price": 300,
       "count": 6,
       "title": "Кому-нибудь да нужная штука",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/Greenplugin/json/master/images/image4.jpg"
     },
     {
       "id": 3,
       "price": 450.90,
       "count": 4,
-      "title": "Всем нужная вешь",
-      "image": ""
+      "title": "Всем нужная вещь",
+      "image": "https://raw.githubusercontent.com/Greenplugin/json/master/images/image2.jpg"
     },
     {
       "id": 4,
       "price": 100500,
       "count": 3,
       "title": "Жизненная необходимость",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/Greenplugin/json/master/images/image3.jpg"
     }
   ]
 }
