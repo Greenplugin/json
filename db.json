@@ -12,21 +12,21 @@
       "price": 300,
       "count": 6,
       "title": "Кому-нибудь да нужная штука",
-      "image": "https://raw.githubusercontent.com/Greenplugin/json/master/images/image4.jpg"
+      "image": "https://raw.githubusercontent.com/Greenplugin/json/master/images/image4.png"
     },
     {
       "id": 3,
       "price": 450.90,
       "count": 4,
       "title": "Всем нужная вещь",
-      "image": "https://raw.githubusercontent.com/Greenplugin/json/master/images/image2.jpg"
+      "image": "https://raw.githubusercontent.com/Greenplugin/json/master/images/image2.png"
     },
     {
       "id": 4,
       "price": 100500,
       "count": 3,
       "title": "Жизненная необходимость",
-      "image": "https://raw.githubusercontent.com/Greenplugin/json/master/images/image3.jpg"
+      "image": "https://raw.githubusercontent.com/Greenplugin/json/master/images/image3.png"
     }
   ]
 }
